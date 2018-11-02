@@ -1,5 +1,5 @@
 body {
-    background-image: url(images/gravel.png);
+    background-image: url(../images/gravel.png);
     position: fixed;
 }
 
@@ -7,35 +7,114 @@ body {
     position: absolute;
 
 }
-
-#image1 {
+.container1 {
     position: relative;
-    left: 20px;
-    top: 10px;
+}
+
+.text1 {
+    position: absolute;
+    top:105px;
+    margin-left: 15px;
+    color: white;
+    background-color: #4aaaa5;
+    padding-right: 48px;
+    padding-left: 45px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: center;
+}
+#image1 {
+  float: left;
+  margin-left: 15px;
+}
+
+.container2 {
+    position: relative;
+}
+
+.text2 {
+    position: absolute;
+    top: 105px;
+    left: 240px;
+    color: white;
+    background-color: #4aaaa5;
+    text-align: center;
+    padding-left: 32px;
+    padding-right: 35px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    
 }
 
 #image2 {
+    margin-left: 25px;
+    
+}
+
+.container3 {
     position: relative;
-    left: 45px;
-    top: 10px;
+}
+
+.text3 {
+    position: absolute;
+    left: 15px;
+    top: 130px;
+    color: white;
+    background-color: #4aaaa5;
+    padding-left: 24px;
+    padding-right: 28px;
+    padding-bottom: 7px;
+    padding-top: 7px;
 }
 
 #image3 {
+    float: left;
+   margin-left: 15px;
+   margin-top: 25px;
+}
+
+.container4 {
     position: relative;
-    right: 388px;
-    top: 200px;
+}
+
+.text4 {
+    position: absolute;
+    left: 240px;
+    bottom: 7px;
+    color: white;
+    background-color: #4aaaa5;
+    padding-right: 55px;
+    padding-left: 55px;
+    padding-top: 7px;
+    padding-bottom: 7px;
 }
 
 #image4 {
+    margin-top: 25px;
+    margin-left: 25px;
+
+}
+
+.container5 {
     position: relative;
-    left: 250px;
-    top: 50px;
+}
+
+.text5 {
+    position: absolute;
+    left: 15px;
+    top: 131px;
+    color: white;
+    background-color: #4aaaa5;
+    padding-left: 65px;
+    padding-right: 63px;
+    padding-top: 7px;
+    padding-bottom: 7px;
 }
 
 #image5 {
-    position: relative;
-    top: 240px;
-    right: 182px;
+   float: left;
+   margin-left: 15px;
+   margin-top: 25px;
     
 }
 
@@ -87,6 +166,7 @@ h2 {
     margin-left: 350px;
     margin-top: 15px;
     margin-bottom: 30px;
+    position: relative;
 }
 
 footer {

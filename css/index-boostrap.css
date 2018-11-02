@@ -1,5 +1,5 @@
 body {
-    background-image: url(images/gravel.png);
+    background-image: url(../images/gravel.png);
     position: fixed;
 }
 .Donald {
@@ -103,3 +103,4 @@ h3{
 .navbar-light .navbar-brand {
     color: white;
 }
+
