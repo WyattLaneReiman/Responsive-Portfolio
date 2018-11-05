@@ -13,8 +13,8 @@ body {
 
 .text1 {
     position: absolute;
-    top:195px;
-    margin-left: 15px;
+    top: 281px;
+    margin-left: 366px;
     color: white;
     background-color: #4aaaa5;
     padding-right: 48px;
@@ -57,14 +57,15 @@ body {
 
 .text3 {
     position: absolute;
-    left: 15px;
-    top: 130px;
+    left: 366px;
+    top: 456px;
     color: white;
     background-color: #4aaaa5;
-    padding-left: 24px;
-    padding-right: 28px;
+    padding-left: 49px;
+    padding-right: 49px;
     padding-bottom: 7px;
     padding-top: 7px;
+    text-align: center;
 }
 
 #image3 {
