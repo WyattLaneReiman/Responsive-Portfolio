@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-Responsive
+this is a responsive portfolio I have created for myself. Inside you will find an about page, a portfolio page, and a contact page. I created the entire portfolio from scratch. On my portfolio page you will find links to my already created live webpages I have made throughout my time at the U of M Coding Bootcamp, along with a link to my resumé and my GitHub repository where you can view the code itself. 
